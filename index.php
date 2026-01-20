@@ -176,3 +176,4 @@ if ($setting != 0) {
 	header("Location: login.php");
 	exit;
 }  ?>
+// Jenkins auto-build test 
