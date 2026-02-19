@@ -39,7 +39,7 @@
 		  </div>
 		  
 		  <div class="mb-3">
-		    <label class="form-label">Password</label>
+		    <label class="form-label">Password 1</label>
 		    <input type="password" 
 		           class="form-control"
 		           name="pass">
